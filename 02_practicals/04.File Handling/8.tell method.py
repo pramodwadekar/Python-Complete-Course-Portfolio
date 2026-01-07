@@ -1,0 +1,5 @@
+f=(open("file.txt","r"))
+f.seek(10)
+print(f.tell())
+print(f.readline())
+f.close()
