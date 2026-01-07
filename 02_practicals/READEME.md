@@ -1,39 +1,58 @@
 # 💻 Python Practicals
 
-This folder contains **hands-on Python programs** that demonstrate core Python concepts
-through **real code examples**.
+This folder contains **topic-wise Python practical programs** created to strengthen
+core Python concepts through **hands-on coding**.
 
-The practicals are written to strengthen **logic building, problem solving, and coding skills**.
+All practicals are organized in a **step-by-step learning order**, from basics to advanced topics.
 
 ---
 
-## 📚 Practicals Covered
+## 📂 Practicals Structure
 
-- Python Basics Programs
-  - Variables & Data Types
+- **01.Basics Python**
+  - Variables, Data Types
   - Operators
   - Conditional Statements
   - Loops
 
-- Functions & Modules
-- Object-Oriented Programming (OOPs)
-- Exception Handling
-- File Handling
-- Multithreading
-- Database Connectivity (SQLite / MySQL)
-- Pandas Practicals (Data Analysis basics)
+- **02.OOPs Python**
+  - Class & Object
+  - Constructor
+  - Inheritance
+  - Polymorphism
+  - Encapsulation
+
+- **03.Exception Handling**
+  - try / except
+  - finally
+  - custom exceptions
+
+- **04.File Handling**
+  - Reading files
+  - Writing files
+  - File operations
+
+- **05.Multi Threading**
+  - Thread creation
+  - Thread synchronization
+  - Multithreading examples
+
+- **06.GUI**
+  - GUI programs using Tkinter
+
+- **07.Database**
+  - Database connectivity
+  - SQLite / MySQL examples
+
+- **08.DSA PYTHON**
+  - Arrays
+  - Stack
+  - Queue
+  - Searching & Sorting basics
 
 ---
 
-## 📂 Folder Structure
-
-- Programs are organized **topic-wise**
-- Each program focuses on **one concept**
-- File names are kept **simple and readable**
-
----
-
-## ▶️ How to Run Programs
+## ▶️ How to Run Practicals
 
 ```bash
 python filename.py
